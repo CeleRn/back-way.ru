@@ -1,4 +1,4 @@
 ---
-layout: consulting
+layout: consultations
 title: Консультации
 ---
