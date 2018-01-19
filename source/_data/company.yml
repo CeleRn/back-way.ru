@@ -5,3 +5,8 @@ phone: 88006234599
 email: info@back-way.ru
 city: г. Москва
 address: Ленинградское шоссе, 52Б
+paymentMethods:
+  - name: Visa
+  - name: MasterCard
+  - name: Yandex Деньги
+  - name: Qiwi

@@ -43,6 +43,18 @@ highlight:
   auto_detect: false
   tab_replace:
   
+marked:
+  gfm: true
+  pedantic: false
+  sanitize: false
+  tables: true
+  breaks: false
+  smartLists: true
+  smartypants: true
+  modifyAnchors: ''
+  autolink: true
+
+
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
@@ -93,3 +105,10 @@ server:
   serveStatic:
     extensions:
     - html
+
+subdomain:
+  city: Москва
+  inCity: в Москве
+  region: Московская область
+  inRegion: в Московской области
+  inCityAndRegion: в Москве и Московской области
