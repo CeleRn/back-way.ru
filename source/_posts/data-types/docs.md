@@ -1,18 +1,18 @@
 ---
+alias: docs
 layout: service
-typePost: device
+typePost: data-type
 section: /recovery
 breadcrumbs:
   - name: Восстановление данных
     url: /recovery/
-  - name: Устройства
-    url: /recovery/devices/
+  - name: Типы данных
+    url: /recovery/data-types/
 breadcrumbCurrent: true
-title: USB флешка
-longtitle: Восстановление данных с флешки
+title: Документы
+longtitle: Восстановление документов
 subtitle: true
-banner: /assets/images/upload/flash.jpg
-price: от 3000 руб.
+banner: /assets/images/upload/docs.jpg
 offers:
   - name: Логические неисправности (флешка физически исправен)
     type: low
@@ -27,30 +27,25 @@ offers:
     type: low
     price: 18000
 seoList:
-  - name: Виды разъемов
+  - name: Расширения файлов
     items:
-      - text: USB 1.1
-      - text: USB 2.0
-      - text: USB 3.0
-      - text: USB 3.1
-      - text: microUSB
-      - text: Lightning
-      - text: USB Type-C
+      - text: doc, docx, odt
+      - text: xls, xlsx, ods
+      - text: ppt, pptx, odp
+      - text: pdf
+      - text: xml, html
+      - text: txt
 content: >-
   Наша мастерская осуществляет профессиональный ремонт и восстановление флешки и карты памяти всех моделей, любых производителей Flash в Орле.
-
 
   Надёжно, быстро и по доступной цене вернём потерянную информацию с неисправных флешек.
 
 seo:
   description: Наша лаборатория выполняет профессиональное восстановление данных с флешек всех видов.
-  h1: Восстановление данных с флешки
-  keywords: восстановление 
-  title: Восстановление данных с флешки
+  h1: Восстановление файлов документов
+  keywords: Восстановление файлов документов 
+  title: Восстановление файлов документов
 ---
-Наша мастерская осуществляет профессиональный ремонт и восстановление флешки и карты памяти всех моделей, любых производителей Flash в Орле.
-
-Надёжно, быстро и по доступной цене вернём потерянную информацию с неисправных флешек.
 
 
 

@@ -1,17 +1,18 @@
 ---
+alias: archive
 layout: service
-typePost: device
+typePost: system
 section: /recovery
 breadcrumbs:
   - name: Восстановление данных
     url: /recovery/
-  - name: Устройства
-    url: /recovery/devices/
+  - name: Операционные системы
+    url: /recovery/systems/
 breadcrumbCurrent: true
-title: USB флешка
+title: Windows
 longtitle: Восстановление данных с флешки
 subtitle: true
-banner: /assets/images/upload/flash.jpg
+banner: /assets/images/upload/windows.jpg
 price: от 3000 руб.
 offers:
   - name: Логические неисправности (флешка физически исправен)
@@ -27,15 +28,11 @@ offers:
     type: low
     price: 18000
 seoList:
-  - name: Виды разъемов
+  - name: Файловые системы
     items:
-      - text: USB 1.1
-      - text: USB 2.0
-      - text: USB 3.0
-      - text: USB 3.1
-      - text: microUSB
-      - text: Lightning
-      - text: USB Type-C
+      - text: FAT16
+      - text: FAT32
+      - text: NTFS
 content: >-
   Наша мастерская осуществляет профессиональный ремонт и восстановление флешки и карты памяти всех моделей, любых производителей Flash в Орле.
 
@@ -44,9 +41,9 @@ content: >-
 
 seo:
   description: Наша лаборатория выполняет профессиональное восстановление данных с флешек всех видов.
-  h1: Восстановление данных с флешки
-  keywords: восстановление 
-  title: Восстановление данных с флешки
+  h1: Восстановление потерянных данных в Windows
+  keywords: восстановление данных windows? восстановдение данных fat, восстановление данных fat32, восстановление данных ntfs
+  title: Восстановление потерянных данных в Windows
 ---
 Наша мастерская осуществляет профессиональный ремонт и восстановление флешки и карты памяти всех моделей, любых производителей Flash в Орле.
 
